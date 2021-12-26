@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">My Next Event</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nama_event">Nama Event</string>
+    <string name="lokasi_event">Lokasi Event</string>
+    <string name="tanggal_event">TANGGAL EVENT</string>
+    <string name="tanggal_dari">Tanggal Dari</string>
+    <string name="pukul">Pukul</string>
+    <string name="tanggal_hingga">Tanggal Hingga</string>
+    <string name="tambahkan_gambar_event">TAMBAHKAN GAMBAR EVENT</string>
+    <string name="caption_add_image">Pilih gambar yang sesuai dengan event anda.\nKami merekomendasikan menggunakan 2160x1080px dan gambar tidak lebih besar dari 10MB.</string>
+    <string name="contentdesc_image_add_event_picture">Image add event picture</string>
+    <string name="deskripsi_event">Deskripsi Event</string>
+    <string name="penyelenggara_event">Penyelenggara Event</string>
+    <string name="selanjutnya">SELANJUTNYA</string>
+    <string name="greeting_user_mainactivity">Halo Selamat Datang,</string>
+    <string name="user_full_name">Aristiyo Rahadiyan Akbar</string>
+    <string name="buat_event">Buat Event</string>
+    <string name="event_saya">Event Saya</string>
+    <string name="daftar_karyawan">Daftar Karyawan</string>
+    <string name="reservasi_meeting">Reservasi Meeting</string>
+    <string name="pengajuan_cuti">Pengajuan Cuti</string>
+    <string name="absensi">Absensi</string>
+    <string name="contentdesc_upcoming_event_image">Upcoming Event Image</string>
+    <string name="label_event_terbaru">Event Terbaru</string>
+    <string name="label_button_lihat_semua">Lihat Semua</string>
+    <string name="email_atau_no_ponsel">Email atau No. Ponsel</string>
+    <string name="kata_sandi">Kata Sandi</string>
+    <string name="ingat_saya">Ingat Saya</string>
+    <string name="lupa_kata_sandi">Lupa kata sandi?</string>
+    <string name="masuk">Masuk</string>
+    <string name="contentdesc_event_image">Event image</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Project/my-next-event/app/src/main/res/drawable/ic_absence.xml" value="0.240625" />
+        <entry key="..\:/Project/my-next-event/app/src/main/res/drawable/ic_account_circle_24.xml" value="0.240625" />
+        <entry key="..\:/Project/my-next-event/app/src/main/res/drawable/ic_add_event.xml" value="0.240625" />
+        <entry key="..\:/Project/my-next-event/app/src/main/res/drawable/ic_radd_photo.xml" value="0.18425925925925926" />
+        <entry key="..\:/Project/my-next-event/app/src/main/res/drawable/ic_round_chevron_left_24.xml" value="0.21388888888888888" />
+        <entry key="..\:/Project/my-next-event/app/src/main/res/font-v26/font.xml" value="0.2546875" />
+        <entry key="..\:/Project/my-next-event/app/src/main/res/font/font.xml" value="0.2263888888888889" />
+        <entry key="..\:/Project/my-next-event/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Project/my-next-event/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Project/my-next-event/app/src/main/res/layout/for_mockup.xml" value="0.33" />
+        <entry key="..\:/Project/my-next-event/app/src/main/res/layout/fragment_create_event.xml" value="0.33" />
+        <entry key="..\:/Project/my-next-event/app/src/main/res/layout/row_event_list.xml" value="0.33" />
+        <entry key="..\:/Project/my-next-event/app/src/main/res/menu/main_top_app_bar.xml" value="0.22447916666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
